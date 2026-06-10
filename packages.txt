@@ -1,0 +1,2 @@
+libgeos-dev
+libgdal-dev
